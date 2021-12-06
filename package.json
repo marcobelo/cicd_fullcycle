@@ -1,0 +1,24 @@
+{
+  "name": "cicd_fullcycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcobelo/cicd_fullcycle.git"
+  },
+  "author": "Marco Belo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcobelo/cicd_fullcycle/issues"
+  },
+  "homepage": "https://github.com/marcobelo/cicd_fullcycle#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.3",
+    "sonar-scanner": "^3.1.0"
+  }
+}
