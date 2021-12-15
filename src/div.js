@@ -14,5 +14,28 @@ function div4(a, b) {
     return a / b;
 }
 
+function div5(a, b) {
+    return a / b;
+}
+
+function div6(a, b) {
+    return a / b;
+}
+
+function div7(a, b) {
+    return a / b;
+}
+
+function div8(a, b) {
+    return a / b;
+}
+
+function div9(a, b) {
+    return a / b;
+}
+
+function div10(a, b) {
+    return a / b;
+}
 
 module.exports = div;
